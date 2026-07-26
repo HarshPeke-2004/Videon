@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304149155552",
+    "project_id": "videon-8655",
+    "storage_bucket": "videon-8655.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304149155552:android:38d85c76db8ea1638e4a85",
+        "android_client_info": {
+          "package_name": "com.example.videon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzKLL2ECFNv2UZDfI-GVLeDrqdWssrJUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
