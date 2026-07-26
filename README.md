@@ -23,7 +23,7 @@ The project was built to strengthen practical skills in Flutter, Firebase, state
 
 ### Video Feed & Playback
 
-* Vertically Scrollable Feed of 20+ Videos
+* Vertically Scrollable Feed of Videos
 * Full-Screen Video Playback with `video_player`
 * Only One Video Plays at a Time (auto-pause off-screen)
 * Well-Structured, Easily Indexed Video Library
